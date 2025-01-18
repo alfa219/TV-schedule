@@ -35,7 +35,7 @@ Program ini dirancang menggunakan berbagai konsep pemrograman seperti percabanga
 
 1. Jalankan program dengan perintah:
    ```bash
-   python nama_file.py
+   python TV_schedule.py
    ```
 
 2. Pilih opsi yang tersedia di menu utama:

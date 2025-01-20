@@ -79,7 +79,7 @@ Program ini dirancang menggunakan berbagai konsep pemrograman seperti percabanga
           break
   ```
 
-### 3. Fungsi
+### 3. function 
 - Fungsi digunakan untuk memisahkan logika program menjadi bagian-bagian modular.
 - Contoh:
   ```python

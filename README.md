@@ -80,7 +80,7 @@ Program ini dirancang menggunakan berbagai konsep pemrograman seperti percabanga
   ```
 
 ### 3. function 
-- Fungsi digunakan untuk memisahkan logika program menjadi bagian-bagian modular.
+- function digunakan untuk memisahkan logika program menjadi bagian-bagian modular.
 - Contoh:
   ```python
   def add_show(self, title, genre, time):
